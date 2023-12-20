@@ -43,8 +43,7 @@ Open http://localhost:3000 with your browser to see the result.
 
 ## Database Schema
 Below is the database schema shall be used in this application:
-
-![Alt text](Screenshot 2023-12-20 at 16.20.42.png?raw=true "DB schema")
+![Screenshot 2023-12-20 at 16 20 42](https://github.com/Arafatmollik1/Fundy/assets/49017356/4b78848a-3ac3-489a-bb8c-49a0b722597e)
 
 ## Contributing
 Contributions to this project are welcome. Please contact me
