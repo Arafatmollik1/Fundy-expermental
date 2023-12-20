@@ -43,6 +43,15 @@ Open http://localhost:3000 with your browser to see the result.
 Below is the database schema shall be used in this application:
 ![db_schema](https://github.com/Arafatmollik1/Fundy/assets/49017356/9b169801-bc2a-4808-8dea-5f58f90f5c9a)
 
+## User Requirements
+
+The User loggs in with google SSO. Creates a funding post and shares it with Friends.
+Below is figma screenshot
+![Screenshot 2023-12-20 at 17 56 15](https://github.com/Arafatmollik1/Fundy/assets/49017356/daf22b0f-3db1-4432-bb39-69647409e20f)
+
+Another user who has recieved the share link can go to the post and just donate! Simple!
+![Screenshot 2023-12-20 at 17 56 53](https://github.com/Arafatmollik1/Fundy/assets/49017356/d0845c72-1ba3-4c35-b8d1-fb69729ee761)
+
 
 ## Contributing
 Contributions to this project are welcome. Please contact me
