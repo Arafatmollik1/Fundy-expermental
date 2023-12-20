@@ -45,7 +45,7 @@ Below is the database schema shall be used in this application:
 
 ## User Requirements
 
-The User loggs in with google SSO. Creates a funding post and shares it with Friends.
+The User loggs in with google SSO. Creates a funding post and shares it with Friends. User can also remove the post too.
 Below is figma screenshot
 ![Screenshot 2023-12-20 at 17 56 15](https://github.com/Arafatmollik1/Fundy/assets/49017356/daf22b0f-3db1-4432-bb39-69647409e20f)
 
