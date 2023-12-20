@@ -1,8 +1,6 @@
 # Fundy
 This is a simple crowdfunding web app. A bit more robust than buymeacoffee but less complicated like gofundme.
 
-# Payment Solution Web Application
-
 ## Overview
 This web application provides a robust payment solution platform, allowing users to create funding posts and collect donations. It's built using Firebase, Next.js, Tailwind CSS, and Chakra UI, offering a modern, responsive, and user-friendly interface.
 
